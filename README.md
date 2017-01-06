@@ -7,3 +7,4 @@
 ## canvas
 
 [坐标系](https://wanglei-0707.github.io/HTML5/canvas/coordinateSystem/index.html)
+[五子棋](https://wanglei-0707.github.io/HTML5/canvas/WuZiQi/index.html)

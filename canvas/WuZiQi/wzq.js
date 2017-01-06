@@ -1,3 +1,7 @@
+/*
+ * 现在不知道为啥再来一局之后还有一个圆圈。。。
+ */
+
 var canvas = document.getElementById('canvas');
 var cxt = canvas.getContext('2d');
 var me = true;

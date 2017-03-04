@@ -1,0 +1,26 @@
+*{
+	padding:0;
+	margin:0;
+}
+#container{
+	width:400px;
+	/*height:600px;*/
+	margin:0 auto;
+}
+#show{
+	width:100%;
+	height:50px;
+	text-align: center;
+	color:red;
+	font-size: 28px;
+	font-family: "微软雅黑";
+}
+.attention{
+	width:50%;
+	margin:20px auto;
+	text-align: center;
+}
+.attention p{
+	color:red;
+	font-size: 12px;
+}

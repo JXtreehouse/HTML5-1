@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>俄罗斯方块</title>
+	<link rel="stylesheet" type="text/css" href="css/tetris.css">
+</head>
+<body>
+	<div id="container">
+		<div id="show">
+			<div>成绩：<span id="score">0</span></div>
+		</div>
+		<canvas id="canvas"></canvas>
+	</div>
+	<div class="attention">
+		<p>目前还有bug，没有游戏是否结束的判断，有时，当前运动的方块在边缘变形时，可能会超出游戏范围，所以会有问题</p>
+	</div>
+
+	<script src="js/jquery.js"></script>
+	<script src="js/wl.js"></script>
+	<script src="js/data.js"></script>
+	<script src="js/tetris.js"></script>
+</body>
+</html>

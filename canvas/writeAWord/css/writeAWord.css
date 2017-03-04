@@ -1,0 +1,56 @@
+#canvas{
+	display: block;
+	margin:0 auto;
+}
+.controler{
+	margin:10px auto;
+}
+button#clear{
+	width:70px;
+	height:40px;
+	border-radius: 5px;
+	border:none;
+	background-color: #009fcc;
+	color:#fff;
+	font-size: 16px;
+	text-align: center;
+	float:right;
+	font-family: "微软雅黑";
+	margin-top:10px;
+}
+button#clear:hover{
+	background-color: #00bbff;
+}
+.clearFix{
+	clear:both;
+}
+.color{
+	width:50px;
+	height:50px;
+	border:1px solid #ccc;
+	border-radius: 3px;
+	border:3px solid #fff;
+	float:left;
+	margin-right: 5px;
+}
+.color:hover{
+	border:3px solid #7700bb;
+}
+.color-orange{
+	background-color: orange;
+}
+.color-yellow{
+	background-color: yellow;
+}
+.color-blue{
+	background-color: blue;
+}
+.color-black{
+	background-color: black;
+}
+.color-green{
+	background-color: green;
+}
+.color-grey{
+	background-color: grey;
+}

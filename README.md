@@ -21,3 +21,5 @@
 [星空-慕课网](https://wanglei-0707.github.io/HTML5/canvas/starSky/index.html)
 
 [学写一个字-慕课网](https://wanglei-0707.github.io/HTML5/canvas/writeAWord/index.html)
+
+[视频时间线](https://wanglei-0707.github.io/HTML5/timeLine/index.html)

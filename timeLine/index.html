@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>video timeline</title>
+    <style>
+        #video{
+            display: block;
+            margin:0 auto;
+        }
+        #timeline{
+            display: block;
+            margin:0 auto;
+        }
+    </style>
+</head>
+<body>
+    <video id="video" controls loop width="600px" height="450px" autoplay="true" autobuffer="true" oncanplay="startVideo()" onended="stopTimeline()">
+        <source src="4walls.mp4">
+    </video>
+    <canvas id="timeline" width="960" height="80"></canvas>
+    <script src="main.js"></script>
+</body>
+</html>
